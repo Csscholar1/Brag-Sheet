@@ -1,23 +1,23 @@
 document.addEventListener('DOMContentLoaded', function() {
 
     document.querySelector('#exam').onclick = function() {
-    window.location = 'https://csscholar1-fantastic-fishstick-qwww5jppqw5c674j-8080.app.github.dev/exam.html';
+    window.location = 'https://csscholar1.github.io/Brag-Sheet/exam.html';
     }
 
     document.querySelector('#essay').onclick = function() {
-        window.location = 'https://csscholar1-fantastic-fishstick-qwww5jppqw5c674j-8080.app.github.dev/essay.html';
+        window.location = 'https://csscholar1.github.io/Brag-Sheet/essay.html';
     }
 
     document.querySelector('#extra').onclick = function() {
-        window.location = 'https://csscholar1-fantastic-fishstick-qwww5jppqw5c674j-8080.app.github.dev/extra-curricular.html';
+        window.location = 'https://csscholar1.github.io/Brag-Sheet/extra-curricular.html';
     }
 
     document.querySelector('#list').onclick = function() {
-        window.location = 'https://csscholar1-fantastic-fishstick-qwww5jppqw5c674j-8080.app.github.dev/college-list.html';
+        window.location = 'https://csscholar1.github.io/Brag-Sheet/college-list.html';
     }
 
     document.querySelector('#home').onclick = function() {
-        window.location = 'https://csscholar1-fantastic-fishstick-qwww5jppqw5c674j-8080.app.github.dev/index.html';
+        window.location = 'https://csscholar1.github.io/Brag-Sheet/index.html';
     }
 
     document.querySelector('#common').onclick = function() {
